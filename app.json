@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "BudgetBuddy",
+    "slug": "RealmApp",
+    "displayName": "BudgetBuddy",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.andrj.RealmApp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "12e8aeea-07ec-44cf-9d0b-a38587c21605"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.andrj.RealmApp"
+    }
+  }
+}
