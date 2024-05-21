@@ -1,3 +1,2 @@
 # BudgetBuddy
-Money management app
- yeeee
+Money management mobile app
