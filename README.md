@@ -1,5 +1,5 @@
-# BudgetBuddy
-Este o aplicație mobilă multiplatformă care reprezintă o soluție modernă pentru creșterea economiilor, prin urmărirea financiară a cheltuielilor și veniturilor personale.
+# APLICAȚIE MOBILĂ MULTIPLATFORMĂ PENTRU GESTIONAREA BUGETULUI PERSONAL
+**BudgetBuddy** este o aplicație mobilă multiplatformă care reprezintă o soluție modernă pentru creșterea economiilor, prin urmărirea financiară a cheltuielilor și veniturilor personale.
 Aplicația este disponibilă pe iOS și Android, oferind utilizatorilor libertatea de a-și monitoriza bugetul într-un mod rapid și simplu.
 
 # Funcționalități
